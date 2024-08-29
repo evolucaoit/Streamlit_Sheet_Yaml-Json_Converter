@@ -52,7 +52,6 @@ pip install streamlit pandas pyyaml
 
 📄 Exemplos de Dados
 
-```
 Exemplo de Dados YAML
 
 ```yaml
