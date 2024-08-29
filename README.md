@@ -18,50 +18,57 @@ O objetivo deste projeto é fornecer uma solução eficiente para a conversão d
   - [Código do Conversor](https://github.com/evolucaoit/Streamlit_Sheet_Yaml-Json_Converter/blob/main/analisa-planilha-gera-yaml.py)
 
 🌲 Diagrama de Árvore para o Código Python
-📁 Projeto
-│
-├── 📜 **Código Python**
-│   ├── 📦 **Importações**
-│   │   ├── 📚 `import streamlit as st`
-│   │   ├── 📚 `import pandas as pd`
-│   │   ├── 📚 `import yaml`
-│   │   ├── 📚 `import json`
-│   │   └── 📚 `import io`
-│   │
-│   ├── 🛠️ **Função `process_excel`**
-│   │   ├── 📂 **Entrada:** `file` (arquivo Excel)
-│   │   ├── 📖 **Ler as abas** (usando `pd.ExcelFile`)
-│   │   ├── 📋 **Criar dicionário `data`**
-│   │   ├── 🔄 **Iterar sobre abas**
-│   │   │   ├── 🗃️ **Ler aba com `pd.read_excel`**
-│   │   │   ├── 🔢 **Converter datas para string**
-│   │   │   └── 📊 **Adicionar dados ao dicionário**
-│   │   └── 📤 **Retorno:** `data` (dicionário com dados)
-│   │
-│   ├── 🛠️ **Função `save_files`**
-│   │   ├── 📂 **Entrada:** `data` (dicionário com dados)
-│   │   ├── 🗂️ **Criar listas `json_files` e `yaml_files`**
-│   │   ├── 🔄 **Iterar sobre os dados**
-│   │   │   ├── 💾 **Salvar em JSON**
-│   │   │   │   ├── 📄 **Nome do arquivo:** `{sheet_name}.json`
-│   │   │   │   └── 📝 **Escrever dados com `json.dump`**
-│   │   │   ├── 💾 **Salvar em YAML**
-│   │   │   │   ├── 📄 **Nome do arquivo:** `{sheet_name}.yaml`
-│   │   │   │   └── 📝 **Escrever dados com `yaml.dump`**
-│   │   └── 📤 **Retorno:** `json_files`, `yaml_files` (listas com nomes dos arquivos)
-│   │
-│   ├── 🖥️ **Interface do Usuário com Streamlit**
-│   │   ├── 🏷️ **Título:** `Planilha para JSON/YAML Converter`
-│   │   ├── 📂 **Uploader de arquivo**
-│   │   └── 🔄 **Processar e salvar arquivos**
-│   │       ├── 🔄 **Processar com `process_excel`**
-│   │       ├── 💾 **Salvar com `save_files`**
-│   │       ├── ✅ **Mensagem de sucesso**
-│   │       ├── 📄 **Listar arquivos JSON**
-│   │       └── 📄 **Listar arquivos YAML**
-│   │
-│   └── 🎈 **Efeitos Visuais**
-│       └── 🎉 **Mostrar balões**
+
+```yaml
+Projeto:
+  Código_Python:
+    Importações:
+      - 📚 "import streamlit as st"
+      - 📚 "import pandas as pd"
+      - 📚 "import yaml"
+      - 📚 "import json"
+      - 📚 "import io"
+
+    Função_process_excel:
+      Entrada: "file (arquivo Excel)"
+      Processos:
+        - 📖 "Ler as abas (usando pd.ExcelFile)"
+        - 📋 "Criar dicionário data"
+        - 🔄 "Iterar sobre abas"
+          - 🗃️ "Ler aba com pd.read_excel"
+          - 🔢 "Converter datas para string"
+          - 📊 "Adicionar dados ao dicionário"
+      Retorno: "data (dicionário com dados)"
+    
+    Função_save_files:
+      Entrada: "data (dicionário com dados)"
+      Processos:
+        - 🗂️ "Criar listas json_files e yaml_files"
+        - 🔄 "Iterar sobre os dados"
+          - 💾 "Salvar em JSON"
+            - 📄 "Nome do arquivo: {sheet_name}.json"
+            - 📝 "Escrever dados com json.dump"
+          - 💾 "Salvar em YAML"
+            - 📄 "Nome do arquivo: {sheet_name}.yaml"
+            - 📝 "Escrever dados com yaml.dump"
+      Retorno: 
+        - "json_files (listas com nomes dos arquivos)"
+        - "yaml_files (listas com nomes dos arquivos)"
+    
+    Interface_do_Usuário_com_Streamlit:
+      Título: "Planilha para JSON/YAML Converter"
+      Uploader_de_arquivo:
+        - 📂 "Arraste e solte sua planilha aqui"
+      Processos:
+        - 🔄 "Processar com process_excel"
+        - 💾 "Salvar com save_files"
+        - ✅ "Mensagem de sucesso"
+        - 📄 "Listar arquivos JSON"
+        - 📄 "Listar arquivos YAML"
+    
+    Efeitos_Visuais:
+      - 🎉 "Mostrar balões"
+```
 
 ### 🎯 Propósito do Projeto
 
