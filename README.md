@@ -96,8 +96,8 @@ Exemplo de Dados YAML
 
 
 ```
-🚀 Sobre o Autor
-Olá, sou Elias Andrade! Sou um profissional com mais de 14 anos de experiência em infraestrutura de TI, automação e análise de dados. Este projeto é uma demonstração da minha capacidade de criar soluções técnicas inovadoras e práticas. 🔧💻
+🚀 Sobre este projeto e meus demais proetos nos meus githubs.
+ Sou um profissional com mais de 14 anos de experiência em infraestrutura de TI, automação e análise de dados. Este projeto é uma demonstração da minha capacidade de criar soluções técnicas inovadoras e práticas. 🔧💻
 
 🌟 Minha Jornada
 🔍 Conhecimento Técnico: Aprofundamento em Python, manipulação de dados e desenvolvimento de interfaces.
