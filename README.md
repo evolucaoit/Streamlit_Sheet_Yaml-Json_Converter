@@ -48,6 +48,7 @@ Você pode instalar as dependências necessárias usando:
 
 ```bash
 pip install streamlit pandas pyyaml
+```
 
 📄 Exemplos de Dados
 
