@@ -1,0 +1,902 @@
+[
+    {
+        "ID": "131758fd-1ab8-4186-99a8-ab8a03ff6809",
+        "Descrição": "per",
+        "Categoria": "Peças",
+        "Quantidade": 150,
+        "Preço Unitário": 158.78,
+        "Data de Validade": "2026-11-06",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "acd51b0b-bd26-4b84-b04d-3096c18347f1",
+        "Descrição": "open",
+        "Categoria": "Peças",
+        "Quantidade": 92,
+        "Preço Unitário": 1477.2,
+        "Data de Validade": "2029-02-20",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "4d9a59fa-3dbe-46b4-83c3-099a43359351",
+        "Descrição": "marriage",
+        "Categoria": "Ferramentas",
+        "Quantidade": 270,
+        "Preço Unitário": 1788.89,
+        "Data de Validade": "2027-07-28",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "9b652748-af7b-476f-bc44-a61077bc86bc",
+        "Descrição": "avoid",
+        "Categoria": "Peças",
+        "Quantidade": 233,
+        "Preço Unitário": 370.02,
+        "Data de Validade": "2028-06-30",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "f3127b46-eeba-45af-84f2-931d16c8ee91",
+        "Descrição": "for",
+        "Categoria": "Ferramentas",
+        "Quantidade": 15,
+        "Preço Unitário": 39.78,
+        "Data de Validade": "2028-03-15",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "2f00f166-8274-4689-987e-c3c7b3563b6f",
+        "Descrição": "all",
+        "Categoria": "Equipamentos",
+        "Quantidade": 211,
+        "Preço Unitário": 1452.76,
+        "Data de Validade": "2029-04-18",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "7458d20f-aa9a-4fe7-81a4-f81b41889c62",
+        "Descrição": "body",
+        "Categoria": "Peças",
+        "Quantidade": 118,
+        "Preço Unitário": 365.74,
+        "Data de Validade": "2027-11-06",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "f7df74dd-8eff-4a05-8fef-89ee8868b54e",
+        "Descrição": "wide",
+        "Categoria": "Ferramentas",
+        "Quantidade": 334,
+        "Preço Unitário": 880.6,
+        "Data de Validade": "2028-03-17",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "8ccd3e0f-48d1-46dd-a913-c2517ca60334",
+        "Descrição": "also",
+        "Categoria": "Peças",
+        "Quantidade": 299,
+        "Preço Unitário": 232.02,
+        "Data de Validade": "2026-05-08",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "b6a3e48b-09c8-4a96-b7e5-bbc629db10ec",
+        "Descrição": "born",
+        "Categoria": "Acessórios",
+        "Quantidade": 377,
+        "Preço Unitário": 1970.17,
+        "Data de Validade": "2028-07-28",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "2baa1a4d-9970-464c-bc85-fc85b4e1cf26",
+        "Descrição": "this",
+        "Categoria": "Acessórios",
+        "Quantidade": 491,
+        "Preço Unitário": 496.79,
+        "Data de Validade": "2028-04-11",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "8803526a-707e-42e3-8fb8-38d2265277e1",
+        "Descrição": "that",
+        "Categoria": "Peças",
+        "Quantidade": 300,
+        "Preço Unitário": 1743.38,
+        "Data de Validade": "2029-02-03",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "866f29ff-b201-4088-9a66-0eaaa43f14e9",
+        "Descrição": "crime",
+        "Categoria": "Peças",
+        "Quantidade": 356,
+        "Preço Unitário": 565.81,
+        "Data de Validade": "2026-12-02",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "0fa3e562-ed13-4af5-8e97-1c6d238cace2",
+        "Descrição": "executive",
+        "Categoria": "Equipamentos",
+        "Quantidade": 339,
+        "Preço Unitário": 1904.8,
+        "Data de Validade": "2028-01-13",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "0b0980ab-4801-4d70-a913-e6e145c82cc6",
+        "Descrição": "occur",
+        "Categoria": "Ferramentas",
+        "Quantidade": 76,
+        "Preço Unitário": 1127.48,
+        "Data de Validade": "2029-07-28",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "1eb436f2-49e1-4bb7-8162-182af33e9339",
+        "Descrição": "anything",
+        "Categoria": "Ferramentas",
+        "Quantidade": 8,
+        "Preço Unitário": 914.99,
+        "Data de Validade": "2028-11-17",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "9b6a8444-2c48-47fc-90c6-c65257f306e1",
+        "Descrição": "administration",
+        "Categoria": "Peças",
+        "Quantidade": 395,
+        "Preço Unitário": 1813.2,
+        "Data de Validade": "2028-08-25",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "1d1399bd-6e87-4aba-b697-6b84b481cca3",
+        "Descrição": "tell",
+        "Categoria": "Ferramentas",
+        "Quantidade": 221,
+        "Preço Unitário": 231.64,
+        "Data de Validade": "2027-01-12",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "9cb1cb78-6515-4aa0-a038-2bbb567b60d6",
+        "Descrição": "television",
+        "Categoria": "Equipamentos",
+        "Quantidade": 177,
+        "Preço Unitário": 977.52,
+        "Data de Validade": "2026-05-26",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "97bbe80e-cbea-4563-8dc8-8b257e688950",
+        "Descrição": "run",
+        "Categoria": "Equipamentos",
+        "Quantidade": 338,
+        "Preço Unitário": 1456.17,
+        "Data de Validade": "2029-05-31",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "ced1df37-9b14-401c-b24d-da9295860f7e",
+        "Descrição": "take",
+        "Categoria": "Equipamentos",
+        "Quantidade": 438,
+        "Preço Unitário": 1417.05,
+        "Data de Validade": "2028-03-24",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "5aeb9299-8921-4d38-9e17-463123483b85",
+        "Descrição": "employee",
+        "Categoria": "Peças",
+        "Quantidade": 92,
+        "Preço Unitário": 984.29,
+        "Data de Validade": "2024-11-21",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "28dd428e-974d-4aba-a1b8-bfe4ec753a70",
+        "Descrição": "act",
+        "Categoria": "Ferramentas",
+        "Quantidade": 235,
+        "Preço Unitário": 227.9,
+        "Data de Validade": "2025-01-30",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "6f841311-57f3-4f7a-b42d-e4e97b1f172e",
+        "Descrição": "consumer",
+        "Categoria": "Equipamentos",
+        "Quantidade": 392,
+        "Preço Unitário": 1776.47,
+        "Data de Validade": "2027-06-09",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "20bfe9a0-e88b-4323-b56a-029a7c79a345",
+        "Descrição": "accept",
+        "Categoria": "Ferramentas",
+        "Quantidade": 275,
+        "Preço Unitário": 844.3,
+        "Data de Validade": "2026-03-19",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "53fe4b88-ea28-4c13-9339-d0f549282280",
+        "Descrição": "notice",
+        "Categoria": "Ferramentas",
+        "Quantidade": 270,
+        "Preço Unitário": 632.65,
+        "Data de Validade": "2025-02-08",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "169ebd85-a02f-4702-9a52-124172a71a58",
+        "Descrição": "would",
+        "Categoria": "Peças",
+        "Quantidade": 261,
+        "Preço Unitário": 206.75,
+        "Data de Validade": "2028-04-16",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "bcbb8a81-4417-4fb1-bd5a-2d510df2438d",
+        "Descrição": "animal",
+        "Categoria": "Acessórios",
+        "Quantidade": 251,
+        "Preço Unitário": 1415.26,
+        "Data de Validade": "2028-11-21",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "ae850ee7-d93c-49ff-9ad9-9961590acf27",
+        "Descrição": "themselves",
+        "Categoria": "Acessórios",
+        "Quantidade": 111,
+        "Preço Unitário": 972.35,
+        "Data de Validade": "2025-09-02",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "d8e5852f-db27-4054-965e-30d1d7d9f532",
+        "Descrição": "network",
+        "Categoria": "Ferramentas",
+        "Quantidade": 56,
+        "Preço Unitário": 1373.28,
+        "Data de Validade": "2026-02-20",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "1a1e7738-f1af-45e2-844d-c7767d0c6dd4",
+        "Descrição": "common",
+        "Categoria": "Acessórios",
+        "Quantidade": 62,
+        "Preço Unitário": 794.36,
+        "Data de Validade": "2026-09-13",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "86d4e6db-0c23-465b-86e6-bf756560e7ba",
+        "Descrição": "general",
+        "Categoria": "Acessórios",
+        "Quantidade": 60,
+        "Preço Unitário": 1278.58,
+        "Data de Validade": "2027-08-04",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "49dd5494-a612-4b7f-b176-b5eb45d9d05f",
+        "Descrição": "popular",
+        "Categoria": "Ferramentas",
+        "Quantidade": 81,
+        "Preço Unitário": 494.3,
+        "Data de Validade": "2025-07-10",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "e71d722c-6310-43da-aeda-db6466cf8fb4",
+        "Descrição": "international",
+        "Categoria": "Equipamentos",
+        "Quantidade": 6,
+        "Preço Unitário": 1976.52,
+        "Data de Validade": "2026-02-24",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "57937a27-d97e-4127-9048-e47c6022c685",
+        "Descrição": "threat",
+        "Categoria": "Peças",
+        "Quantidade": 286,
+        "Preço Unitário": 870.9,
+        "Data de Validade": "2027-02-23",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "7b9a5aff-374a-406d-9023-4e3f065ff6f1",
+        "Descrição": "effort",
+        "Categoria": "Ferramentas",
+        "Quantidade": 147,
+        "Preço Unitário": 1645.35,
+        "Data de Validade": "2026-04-25",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "736b07a4-0d30-4f23-98d0-d54703cca9ce",
+        "Descrição": "threat",
+        "Categoria": "Peças",
+        "Quantidade": 24,
+        "Preço Unitário": 1829.64,
+        "Data de Validade": "2025-12-19",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "e0120a2b-3885-4a71-b478-9492543e4559",
+        "Descrição": "sit",
+        "Categoria": "Equipamentos",
+        "Quantidade": 62,
+        "Preço Unitário": 375.93,
+        "Data de Validade": "2027-02-01",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "b5eeba8a-4ca2-4969-b600-69fd4e560188",
+        "Descrição": "evidence",
+        "Categoria": "Acessórios",
+        "Quantidade": 22,
+        "Preço Unitário": 1200.35,
+        "Data de Validade": "2027-09-08",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "d519762a-ce25-4ae6-b29b-1ee002664ae5",
+        "Descrição": "money",
+        "Categoria": "Ferramentas",
+        "Quantidade": 42,
+        "Preço Unitário": 761.71,
+        "Data de Validade": "2028-08-20",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "bd9266c0-4e2e-4b53-a26c-53bdca5049b0",
+        "Descrição": "police",
+        "Categoria": "Peças",
+        "Quantidade": 319,
+        "Preço Unitário": 1004.42,
+        "Data de Validade": "2026-09-10",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "6ba89a52-cec9-46e8-a1d7-438fbaba7043",
+        "Descrição": "simply",
+        "Categoria": "Acessórios",
+        "Quantidade": 186,
+        "Preço Unitário": 201.33,
+        "Data de Validade": "2024-12-07",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "f2b8742b-69fd-4bbd-9c4d-76e2e6c14781",
+        "Descrição": "where",
+        "Categoria": "Equipamentos",
+        "Quantidade": 315,
+        "Preço Unitário": 251.46,
+        "Data de Validade": "2024-12-20",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "749554ea-799a-4a59-b80c-1c909bdb0132",
+        "Descrição": "special",
+        "Categoria": "Ferramentas",
+        "Quantidade": 21,
+        "Preço Unitário": 1343.57,
+        "Data de Validade": "2027-12-09",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "f32e2499-4ecb-42c1-bd8d-a523ff1c1d66",
+        "Descrição": "staff",
+        "Categoria": "Ferramentas",
+        "Quantidade": 248,
+        "Preço Unitário": 734.86,
+        "Data de Validade": "2027-02-23",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "c592d225-2368-4269-85bc-d0f3bba5e1aa",
+        "Descrição": "low",
+        "Categoria": "Ferramentas",
+        "Quantidade": 499,
+        "Preço Unitário": 907.14,
+        "Data de Validade": "2027-09-11",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "abb5cd5c-f007-4da7-a0c5-eb4ceb3afbac",
+        "Descrição": "allow",
+        "Categoria": "Equipamentos",
+        "Quantidade": 282,
+        "Preço Unitário": 1295.03,
+        "Data de Validade": "2026-03-16",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "efc82959-06a6-4f74-b2d6-c051d0bff03d",
+        "Descrição": "artist",
+        "Categoria": "Peças",
+        "Quantidade": 452,
+        "Preço Unitário": 1705.73,
+        "Data de Validade": "2028-05-28",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "bb8fa505-39de-4614-854f-7f0aeb36e61e",
+        "Descrição": "apply",
+        "Categoria": "Peças",
+        "Quantidade": 54,
+        "Preço Unitário": 1152.1,
+        "Data de Validade": "2028-11-11",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "f8b41eac-e30e-4c2b-8817-e6cc84af90ad",
+        "Descrição": "time",
+        "Categoria": "Ferramentas",
+        "Quantidade": 406,
+        "Preço Unitário": 175.91,
+        "Data de Validade": "2029-04-20",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "e069b77d-87c2-4787-96ee-8db4b97c6f74",
+        "Descrição": "best",
+        "Categoria": "Peças",
+        "Quantidade": 286,
+        "Preço Unitário": 177.89,
+        "Data de Validade": "2028-08-30",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "c2f6b45a-2950-4c38-9d12-edc74a67894d",
+        "Descrição": "charge",
+        "Categoria": "Acessórios",
+        "Quantidade": 177,
+        "Preço Unitário": 1337.01,
+        "Data de Validade": "2024-09-25",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "ff120e96-6878-405e-93f5-464c8aded22d",
+        "Descrição": "dark",
+        "Categoria": "Acessórios",
+        "Quantidade": 496,
+        "Preço Unitário": 1178.41,
+        "Data de Validade": "2026-01-09",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "91568e77-efde-4997-a20a-dbf091354ea6",
+        "Descrição": "she",
+        "Categoria": "Peças",
+        "Quantidade": 320,
+        "Preço Unitário": 1775.73,
+        "Data de Validade": "2025-10-20",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "8d26b189-bd1d-42c0-ba28-649ba25e99cc",
+        "Descrição": "direction",
+        "Categoria": "Equipamentos",
+        "Quantidade": 396,
+        "Preço Unitário": 385.53,
+        "Data de Validade": "2025-04-08",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "cc1757be-97ba-49b9-940c-2f72521d7472",
+        "Descrição": "important",
+        "Categoria": "Ferramentas",
+        "Quantidade": 215,
+        "Preço Unitário": 938.45,
+        "Data de Validade": "2028-12-05",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "61149549-b17f-4a33-8118-a70afb9eaeb3",
+        "Descrição": "star",
+        "Categoria": "Peças",
+        "Quantidade": 70,
+        "Preço Unitário": 52.29,
+        "Data de Validade": "2025-12-22",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "4d84d719-9bc3-4340-9c50-201d71aaee27",
+        "Descrição": "question",
+        "Categoria": "Acessórios",
+        "Quantidade": 377,
+        "Preço Unitário": 880.47,
+        "Data de Validade": "2025-03-23",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "6a5ac726-6804-48ed-a290-e8ff345e2ee4",
+        "Descrição": "feel",
+        "Categoria": "Peças",
+        "Quantidade": 206,
+        "Preço Unitário": 1827.03,
+        "Data de Validade": "2025-11-03",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "5eff1cda-5a19-4dec-b7a0-9f78cc5d2d76",
+        "Descrição": "want",
+        "Categoria": "Acessórios",
+        "Quantidade": 155,
+        "Preço Unitário": 1249.36,
+        "Data de Validade": "2028-08-01",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "c5dd230d-8702-4c36-aeb5-3f5eb21da9ee",
+        "Descrição": "state",
+        "Categoria": "Peças",
+        "Quantidade": 78,
+        "Preço Unitário": 503.11,
+        "Data de Validade": "2027-02-08",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "179cf230-87b9-4468-b08b-93568df811d1",
+        "Descrição": "turn",
+        "Categoria": "Ferramentas",
+        "Quantidade": 40,
+        "Preço Unitário": 1028.8,
+        "Data de Validade": "2029-06-24",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "f9add766-b8e2-416b-a375-792822e949e1",
+        "Descrição": "east",
+        "Categoria": "Ferramentas",
+        "Quantidade": 276,
+        "Preço Unitário": 954.94,
+        "Data de Validade": "2025-12-04",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "beeebb58-9280-4b50-8ba7-7589f468245a",
+        "Descrição": "million",
+        "Categoria": "Acessórios",
+        "Quantidade": 474,
+        "Preço Unitário": 1130.67,
+        "Data de Validade": "2028-12-02",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "c4375173-3089-43fb-9ee8-1f9ba5766ea1",
+        "Descrição": "someone",
+        "Categoria": "Peças",
+        "Quantidade": 204,
+        "Preço Unitário": 1610.84,
+        "Data de Validade": "2024-09-01",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "2153a8ef-8b96-4659-8a74-44bea21b7f87",
+        "Descrição": "ahead",
+        "Categoria": "Acessórios",
+        "Quantidade": 499,
+        "Preço Unitário": 1156.07,
+        "Data de Validade": "2028-02-24",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "073fc9ce-dba1-4318-a3a6-40ca3d73703d",
+        "Descrição": "community",
+        "Categoria": "Ferramentas",
+        "Quantidade": 326,
+        "Preço Unitário": 957.53,
+        "Data de Validade": "2029-07-02",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "5eed8c1f-2cc1-4a74-819e-5e0e9c6ca375",
+        "Descrição": "behind",
+        "Categoria": "Acessórios",
+        "Quantidade": 219,
+        "Preço Unitário": 482.36,
+        "Data de Validade": "2025-09-07",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "a8268f4c-70dd-4eb5-a1ae-40c0252ff29e",
+        "Descrição": "man",
+        "Categoria": "Peças",
+        "Quantidade": 281,
+        "Preço Unitário": 1416.57,
+        "Data de Validade": "2026-07-15",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "7a5fd6e7-6723-4e4b-9ab8-2fb46983f448",
+        "Descrição": "product",
+        "Categoria": "Peças",
+        "Quantidade": 103,
+        "Preço Unitário": 1840.82,
+        "Data de Validade": "2027-01-30",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "6ee9e478-a793-49c8-b128-efbd0f85b7a8",
+        "Descrição": "I",
+        "Categoria": "Equipamentos",
+        "Quantidade": 82,
+        "Preço Unitário": 1099.57,
+        "Data de Validade": "2027-04-23",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "f2279bf5-c684-4e90-a1a9-ea9e7a85c95b",
+        "Descrição": "on",
+        "Categoria": "Peças",
+        "Quantidade": 151,
+        "Preço Unitário": 1395.91,
+        "Data de Validade": "2026-08-13",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "b896460d-a9d3-435a-be07-2fa696a0d229",
+        "Descrição": "crime",
+        "Categoria": "Peças",
+        "Quantidade": 80,
+        "Preço Unitário": 869.83,
+        "Data de Validade": "2029-07-05",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "950b61d4-5d00-461b-b900-abc94b9c19d2",
+        "Descrição": "interest",
+        "Categoria": "Peças",
+        "Quantidade": 129,
+        "Preço Unitário": 382.15,
+        "Data de Validade": "2026-01-23",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "33f37390-f8db-466a-811a-326039e984e3",
+        "Descrição": "evening",
+        "Categoria": "Peças",
+        "Quantidade": 439,
+        "Preço Unitário": 844.14,
+        "Data de Validade": "2026-01-27",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "663f668e-aa10-48ce-bece-e4b2e511fd74",
+        "Descrição": "hotel",
+        "Categoria": "Peças",
+        "Quantidade": 15,
+        "Preço Unitário": 257.17,
+        "Data de Validade": "2027-07-18",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "c115ad89-325e-4e4d-a950-a306e8828929",
+        "Descrição": "position",
+        "Categoria": "Peças",
+        "Quantidade": 329,
+        "Preço Unitário": 915.36,
+        "Data de Validade": "2028-08-01",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "a83d0f61-7b23-42a1-bfab-5b74c3ecc10a",
+        "Descrição": "hot",
+        "Categoria": "Equipamentos",
+        "Quantidade": 386,
+        "Preço Unitário": 632.63,
+        "Data de Validade": "2028-08-09",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "93e21279-30c5-4c0d-b967-b8fcd84ea14d",
+        "Descrição": "office",
+        "Categoria": "Equipamentos",
+        "Quantidade": 147,
+        "Preço Unitário": 1954.67,
+        "Data de Validade": "2025-05-17",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "0a6b185d-471e-4e72-bedf-d390936760be",
+        "Descrição": "participant",
+        "Categoria": "Equipamentos",
+        "Quantidade": 155,
+        "Preço Unitário": 723.34,
+        "Data de Validade": "2029-01-11",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "8c9c73a5-fd80-42d9-a579-091eb73f5ca7",
+        "Descrição": "if",
+        "Categoria": "Ferramentas",
+        "Quantidade": 282,
+        "Preço Unitário": 1137.9,
+        "Data de Validade": "2028-03-16",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "07de2c9e-325a-41cf-b8d2-00e2142f90c2",
+        "Descrição": "like",
+        "Categoria": "Peças",
+        "Quantidade": 307,
+        "Preço Unitário": 1362.94,
+        "Data de Validade": "2029-03-19",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "742d79fa-ab06-43ab-8311-be40a6b5dd7e",
+        "Descrição": "hear",
+        "Categoria": "Equipamentos",
+        "Quantidade": 310,
+        "Preço Unitário": 530.1,
+        "Data de Validade": "2026-12-03",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "e2f1edbd-5507-47b4-bd3c-359aed7e2294",
+        "Descrição": "before",
+        "Categoria": "Peças",
+        "Quantidade": 408,
+        "Preço Unitário": 1943.83,
+        "Data de Validade": "2027-09-20",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "e15bd20a-15bf-448d-a3eb-ecc18748c4dc",
+        "Descrição": "heart",
+        "Categoria": "Acessórios",
+        "Quantidade": 135,
+        "Preço Unitário": 356.84,
+        "Data de Validade": "2026-03-15",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "7206c3d5-f604-4481-90b4-af4907efbf9f",
+        "Descrição": "piece",
+        "Categoria": "Peças",
+        "Quantidade": 13,
+        "Preço Unitário": 653.68,
+        "Data de Validade": "2028-03-21",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "6eca0315-924f-4a36-a485-62e52049b799",
+        "Descrição": "movement",
+        "Categoria": "Peças",
+        "Quantidade": 86,
+        "Preço Unitário": 1724.72,
+        "Data de Validade": "2026-11-13",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "fcc493b3-0be9-44cc-8fa0-9f5b85edc3d0",
+        "Descrição": "question",
+        "Categoria": "Acessórios",
+        "Quantidade": 235,
+        "Preço Unitário": 1179.9,
+        "Data de Validade": "2026-07-04",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "28e9f556-0b6c-462e-8815-90bd5aa55fc4",
+        "Descrição": "professor",
+        "Categoria": "Equipamentos",
+        "Quantidade": 423,
+        "Preço Unitário": 1335.25,
+        "Data de Validade": "2025-04-11",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "8f5fb188-1e83-4ec9-a525-7b27b163607f",
+        "Descrição": "society",
+        "Categoria": "Equipamentos",
+        "Quantidade": 495,
+        "Preço Unitário": 1870.65,
+        "Data de Validade": "2026-12-23",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "74c75ed2-107e-4d42-8666-6ee70b010029",
+        "Descrição": "carry",
+        "Categoria": "Acessórios",
+        "Quantidade": 239,
+        "Preço Unitário": 911.87,
+        "Data de Validade": "2026-12-17",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "91a454da-3472-4c9b-b423-8745c016bd1d",
+        "Descrição": "large",
+        "Categoria": "Ferramentas",
+        "Quantidade": 150,
+        "Preço Unitário": 570.71,
+        "Data de Validade": "2024-12-01",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "c43a422c-acd7-4201-85c2-fc7bdb00ea2b",
+        "Descrição": "maybe",
+        "Categoria": "Acessórios",
+        "Quantidade": 485,
+        "Preço Unitário": 1292.03,
+        "Data de Validade": "2025-04-10",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "dcfc3e1d-858a-4977-b26f-6363f139549b",
+        "Descrição": "total",
+        "Categoria": "Acessórios",
+        "Quantidade": 123,
+        "Preço Unitário": 1696.93,
+        "Data de Validade": "2029-06-07",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "a16875e2-a92b-43dd-8936-6b119f2bf7f9",
+        "Descrição": "describe",
+        "Categoria": "Equipamentos",
+        "Quantidade": 494,
+        "Preço Unitário": 21.37,
+        "Data de Validade": "2026-09-26",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "77c9e57a-44da-48b1-9438-f629c7bf3fe2",
+        "Descrição": "need",
+        "Categoria": "Peças",
+        "Quantidade": 406,
+        "Preço Unitário": 1229.49,
+        "Data de Validade": "2025-01-18",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "52644a13-e119-4c76-b6e0-5d220712e5e8",
+        "Descrição": "quite",
+        "Categoria": "Equipamentos",
+        "Quantidade": 38,
+        "Preço Unitário": 1413.64,
+        "Data de Validade": "2027-07-03",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "d0670df0-4d7d-4caa-85b9-e2d046c20eb0",
+        "Descrição": "pick",
+        "Categoria": "Acessórios",
+        "Quantidade": 496,
+        "Preço Unitário": 438.0,
+        "Data de Validade": "2027-08-10",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "a1f38b30-8d55-4482-94b2-af0543998b8e",
+        "Descrição": "matter",
+        "Categoria": "Equipamentos",
+        "Quantidade": 59,
+        "Preço Unitário": 1753.7,
+        "Data de Validade": "2025-08-17",
+        "Filial": "Filial 10"
+    },
+    {
+        "ID": "868890cb-82b7-4482-b653-b5f3f19d7b4c",
+        "Descrição": "through",
+        "Categoria": "Peças",
+        "Quantidade": 447,
+        "Preço Unitário": 804.05,
+        "Data de Validade": "2026-05-25",
+        "Filial": "Filial 10"
+    }
+]
